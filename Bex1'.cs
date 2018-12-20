@@ -21,3 +21,11 @@ namespace ConsoleApp25
         }
     }
 }
+/* deuxieme méthode : avec le do while
+int i = 0
+do
+{
+Console.WriteLine("Bonjour, je ne suis qu'un simple message.");
+i++;
+}
+while(i<10) */
